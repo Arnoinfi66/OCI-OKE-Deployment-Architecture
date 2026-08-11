@@ -3,9 +3,7 @@
 ## Overview
 
 The repository explains a simple deployment flow using Oracle Kubernetes Engine, Kubernetes Deployment, Service, Ingress, and OCI Load Balancer.
-
 My main takeaway from this exercise is that an application running in Kubernetes is not exposed directly. The traffic flow needs to be understood clearly, starting from the external user, then the OCI Load Balancer, then the Ingress Controller, then the Kubernetes Service, and finally the application pods running on worker nodes.
-
 This repository is based on my own learning and documentation. No client-confidential, proprietary, or project-specific information is included.
 
 \---
