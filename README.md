@@ -11,7 +11,6 @@ This repository is based on my own learning and documentation. No client-confide
 ## Why I Created This
 
 Kubernetes can look complex when the deployment, service, ingress, and load balancer are reviewed separately.
-
 I created this repository to break the flow into simple sections. The goal is to understand how a basic web application can be deployed on OKE and how traffic reaches the application through Kubernetes and OCI networking components.
 
 \---
