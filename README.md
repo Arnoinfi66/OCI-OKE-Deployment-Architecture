@@ -25,7 +25,7 @@ Oracle Kubernetes Engine on Oracle Cloud Infrastructure
 
 ```mermaid
 flowchart TD
-    A\[External User] --> B\[OCI Load Balancer]
+    A[External User] --> B\[OCI Load Balancer]
     B --> C\[Ingress Controller]
     C --> D\[Kubernetes Service - ClusterIP]
     D --> E\[OKE Worker Node 1 - NGINX Pod]
