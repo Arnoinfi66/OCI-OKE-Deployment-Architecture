@@ -2,7 +2,6 @@
 
 ## Overview
 
-I created this repository after being accepted into the Oracle ACE Apprentice Program to document my product usage and understanding of Oracle Kubernetes Engine on Oracle Cloud Infrastructure.
 The repository shows a simple application deployment flow using Oracle Kubernetes Engine, Kubernetes Deployment, Service, Ingress, and OCI Load Balancer.
 My focus was to explain how traffic moves from an external user to the OCI Load Balancer, then to the Ingress Controller, Kubernetes Service, and finally to the application pods running on worker nodes.
 This contribution demonstrates my understanding of how OKE and OCI networking components work together to support application deployment. No client-confidential, proprietary, or project-specific information is included.
