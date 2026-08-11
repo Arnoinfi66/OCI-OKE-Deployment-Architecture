@@ -53,25 +53,6 @@ This repository covers the following components:
 
 \---
 
-## Repository Structure
-
-```text
-architecture/
-  oke-deployment-flow.md
-
-kubernetes-manifests/
-  deployment.yaml
-  service.yaml
-  ingress.yaml
-
-docs/
-  product-usage-summary.md
-
-README.md
-```
-
-\---
-
 ## Kubernetes Resources Included
 
 ### Deployment
